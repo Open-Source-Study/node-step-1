@@ -1,0 +1,16 @@
+{
+  "name": "step-1-master",
+  "version": "1.0.0",
+  "description": "Create a node server and serve html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.2.0"
+  }
+}
